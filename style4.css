@@ -1,0 +1,25 @@
+.navigacijska-vrstica{
+    display: flex ;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    padding: 5px;
+
+}
+.slider img{
+    width: 50%;
+}
+
+.slider{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-wrap: wrap;
+}
