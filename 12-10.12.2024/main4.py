@@ -48,7 +48,7 @@ while True:
     else:
         print("Invalid move. Try again.")
 
-# TODO: Write a function that checks if we are done!
+# TODOo: Write a function that checks if we are done!
 #           -> Check if any element is E
-# TODO: Write a function that checks if anybody has won! -> 0, X
+# TODOo: Write a function that checks if anybody has won! -> 0, X
 #           ->
